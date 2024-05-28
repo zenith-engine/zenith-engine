@@ -39,9 +39,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="" alt="Snake animation" />
-
-###
