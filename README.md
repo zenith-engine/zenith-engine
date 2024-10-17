@@ -3,7 +3,7 @@
 ###
 # Hello im Zenith
 
-- Hi I'm a 17 year old kid who spends his time developing a little bit of everything I prefer c++ and js
+- Hi I'm a 17 year old who spends his time developing a little bit of everything I prefer c++ and js
 
 
 <div align="center">
