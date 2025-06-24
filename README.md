@@ -3,7 +3,12 @@
 ###
 # Hello im Zenith
 
-- Hi I'm a 17 year old who spends his time developing a little bit of everything I prefer c++ and js
+
+  _  _     _ _                _         _                    ___ 
+ | || |___| | |___    __ __ _| |_  __ _| |_ ___  _  _ _ __  |__ \
+ | __ / -_) | / _ \_  \ V  V / ' \/ _` |  _(_-< | || | '_ \   /_/
+ |_||_\___|_|_\___( )  \_/\_/|_||_\__,_|\__/__/  \_,_| .__/  (_) 
+                  |/                                 |_|                  
 
 
 <div align="center">
